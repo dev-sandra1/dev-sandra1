@@ -17,8 +17,8 @@
   <br>⋆ ✨ In my spare time I read manga and watch anime
   <br>⋆ 💗 Cat and flower lover /ᐠ - ˕ -マ
   <br> ᠃ ⚘᠂ ⚘ ˚ ⚘ ᠂ ⚘ ᠃⋆ 
-</div>
-<p height="30">💻 Programming languages: </p>
+
+<h2>💻 Programming languages: <h2/>
 
 <div align="left">
  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"height="60" />
