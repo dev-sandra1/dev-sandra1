@@ -18,6 +18,7 @@
   <br>⋆ ✨ In my spare time I read manga and watch anime
   <br>⋆ 💗 Cat and flower lover /ᐠ - ˕ -マ
   <br> ᠃ ⚘᠂ ⚘ ˚ ⚘ ᠂ ⚘ ᠃⋆ 
+   <br>
 
 <h2>💻 Programming languages: <h2/>
 
