@@ -8,7 +8,7 @@
 
 <img height="60" align="left" src="https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=300&size=30&pause=1000&color=20F3FF&width=435&lines=%F0%9F%8E%80About+Me%3A" />
 
-<img align="right" width="340" src="https://media.giphy.com/media/U0d3OVZL7z31WKgua3/giphy.gif" />
+<img align="right" width="320" src="https://media.giphy.com/media/U0d3OVZL7z31WKgua3/giphy.gif" />
 
 <div align="left">
   <br>
